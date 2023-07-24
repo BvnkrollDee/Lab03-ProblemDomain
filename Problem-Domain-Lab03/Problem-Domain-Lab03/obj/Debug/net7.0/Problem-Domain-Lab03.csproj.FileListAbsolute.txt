@@ -1,0 +1,15 @@
+/Users/bvnkrolldee/Documents/GitHub/Reading-notes/Lab03-ProblemDomain/Problem-Domain-Lab03/Problem-Domain-Lab03/bin/Debug/net7.0/Problem-Domain-Lab03
+/Users/bvnkrolldee/Documents/GitHub/Reading-notes/Lab03-ProblemDomain/Problem-Domain-Lab03/Problem-Domain-Lab03/bin/Debug/net7.0/Problem-Domain-Lab03.deps.json
+/Users/bvnkrolldee/Documents/GitHub/Reading-notes/Lab03-ProblemDomain/Problem-Domain-Lab03/Problem-Domain-Lab03/bin/Debug/net7.0/Problem-Domain-Lab03.runtimeconfig.json
+/Users/bvnkrolldee/Documents/GitHub/Reading-notes/Lab03-ProblemDomain/Problem-Domain-Lab03/Problem-Domain-Lab03/bin/Debug/net7.0/Problem-Domain-Lab03.dll
+/Users/bvnkrolldee/Documents/GitHub/Reading-notes/Lab03-ProblemDomain/Problem-Domain-Lab03/Problem-Domain-Lab03/bin/Debug/net7.0/Problem-Domain-Lab03.pdb
+/Users/bvnkrolldee/Documents/GitHub/Reading-notes/Lab03-ProblemDomain/Problem-Domain-Lab03/Problem-Domain-Lab03/obj/Debug/net7.0/Problem-Domain-Lab03.csproj.AssemblyReference.cache
+/Users/bvnkrolldee/Documents/GitHub/Reading-notes/Lab03-ProblemDomain/Problem-Domain-Lab03/Problem-Domain-Lab03/obj/Debug/net7.0/Problem-Domain-Lab03.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bvnkrolldee/Documents/GitHub/Reading-notes/Lab03-ProblemDomain/Problem-Domain-Lab03/Problem-Domain-Lab03/obj/Debug/net7.0/Problem-Domain-Lab03.AssemblyInfoInputs.cache
+/Users/bvnkrolldee/Documents/GitHub/Reading-notes/Lab03-ProblemDomain/Problem-Domain-Lab03/Problem-Domain-Lab03/obj/Debug/net7.0/Problem-Domain-Lab03.AssemblyInfo.cs
+/Users/bvnkrolldee/Documents/GitHub/Reading-notes/Lab03-ProblemDomain/Problem-Domain-Lab03/Problem-Domain-Lab03/obj/Debug/net7.0/Problem-Domain-Lab03.csproj.CoreCompileInputs.cache
+/Users/bvnkrolldee/Documents/GitHub/Reading-notes/Lab03-ProblemDomain/Problem-Domain-Lab03/Problem-Domain-Lab03/obj/Debug/net7.0/Problem-Domain-Lab03.dll
+/Users/bvnkrolldee/Documents/GitHub/Reading-notes/Lab03-ProblemDomain/Problem-Domain-Lab03/Problem-Domain-Lab03/obj/Debug/net7.0/refint/Problem-Domain-Lab03.dll
+/Users/bvnkrolldee/Documents/GitHub/Reading-notes/Lab03-ProblemDomain/Problem-Domain-Lab03/Problem-Domain-Lab03/obj/Debug/net7.0/Problem-Domain-Lab03.pdb
+/Users/bvnkrolldee/Documents/GitHub/Reading-notes/Lab03-ProblemDomain/Problem-Domain-Lab03/Problem-Domain-Lab03/obj/Debug/net7.0/Problem-Domain-Lab03.genruntimeconfig.cache
+/Users/bvnkrolldee/Documents/GitHub/Reading-notes/Lab03-ProblemDomain/Problem-Domain-Lab03/Problem-Domain-Lab03/obj/Debug/net7.0/ref/Problem-Domain-Lab03.dll
